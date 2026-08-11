@@ -3,9 +3,10 @@
 [disciplina_CG_aulas_FreeForm]: <https://www.icloud.com/freeform/0c4lo1IrJ_sqr9iG5QdX-cyNg#disciplina_CG_aulas> "disciplina_CG_aulas_Freeform"  
 [Cronograma]: <./cronograma.md> "Cronograma"  
 
-Material da disciplina de Computação Gráfica  
+Professor Dalton
+<https://github.com/dalton-reis/dalton-reis>
 
-## Atenção  
+## Material da disciplina de Computação Gráfica  
 
 Faça o seu trabalho; cópias receberão nota zero. O professor pode a qualquer momento questionar e avaliar o trabalho desenvolvido. O aluno deve demonstrar conhecimento do código implementado respondendo principalmente a questões relacionadas ao conteúdo apresentado (a resposta deve ser do aluno, não de uma assistente de IA), e não apenas saber "ler" o código desenvolvido.  
 
@@ -19,8 +20,6 @@ Todos os trabalhos serão desenvolvidos em equipe (**máximo de quatro alunos**)
 
 ## Rabiscos
 
-### Rabiscos - FreeForm (Apple)
-
 Vocês irão notar que, quando preciso fazer algum rabisco, eu uso o FreeForm: [disciplina_CG_aulas_FreeForm]
 
 ## [Matriz curricular BCC](<https://github.com/dalton-reis/dalton-reis/blob/main/_._/matriz_BCC.pdf> "Matriz curricular BCC")  
@@ -29,13 +28,12 @@ Vocês irão notar que, quando preciso fazer algum rabisco, eu uso o FreeForm: [
 
 ## [Cronograma]  
 
-## [Unidade 1](Unidade1 "Unidade 1")  
+## Unidades
 
-## [Unidade 2](Unidade2 "Unidade 2")  
-
-## [Unidade 3](Unidade3 "Unidade 3")  
-
-## [Unidade 4](Unidade4 "Unidade 4")  
+[Unidade 1](Unidade1 "Unidade 1")  
+[Unidade 2](Unidade2 "Unidade 2")  
+[Unidade 3](Unidade3 "Unidade 3")  
+[Unidade 4](Unidade4 "Unidade 4")  
 
 ## [VisEdu-CG](https://gcgfurb.github.io/yoda/ "VisEdu-CG")
 
