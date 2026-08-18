@@ -192,7 +192,7 @@ MASSIVE <https://www.massivesoftware.com>
 - Processamento de Imagens (PI)
 - Visão Computacional (VC)
 
-<!-- ## Pacotão Gráfico: camadas
+## Pacotão Gráfico: camadas
 
 ![Camadas do Pacotão Gráfico](cg-slides_u1_imagens/slide-12-camadas.png)
 
@@ -322,7 +322,7 @@ Cinemachine: <https://unity.com/pt/unity/features/editor/art-and-design/cinemach
 ![Computação Gráfica: etapas - 14](cg-slides_u1_imagens/slide-40-imagem.png)
 ![Computação Gráfica: etapas - 15](cg-slides_u1_imagens/slide-41-imagem.png)
 ![Computação Gráfica: etapas - 16](cg-slides_u1_imagens/slide-42-imagem.png)
-![Computação Gráfica: etapas - 17](cg-slides_u1_imagens/slide-43-imagem.png) -->
+![Computação Gráfica: etapas - 17](cg-slides_u1_imagens/slide-43-imagem.png)
 
 <!-- 
 TODO:  
