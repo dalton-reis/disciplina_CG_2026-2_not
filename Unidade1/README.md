@@ -1,29 +1,15 @@
 # Computação Gráfica - Unidade 1  
 
 Introdução a sistemas gráficos: histórico e aplicações, conceitos gerais, principais áreas da Computação Gráfica, dispositivos de entrada e saída gráficos e introdução à biblioteca gráfica (OpenGL/OpenTK).  
-
 Objetivo: identificar os conceitos gerais da Computação Gráfica e as principais áreas de atuação.  
 
 ## [Atividades - Aula](Atividade1.md "Atividades - Aula")  
 
-## Rabiscos
+## [Exemplos](exemplos "Exemplos")  
 
-![aulaRabiscos](aulaRabiscos.drawio.svg)
+## Conteúdo
 
-## Material  
-
-[Exemplos](exemplos "Exemplos")  
-
-# Conteúdo: unidade 01
-
-- Introdução a sistemas gráficos:
-  - histórico e aplicações; conceitos gerais;
-  - principais áreas da CG; introdução à biblioteca OpenGL.
-- Objetivos específicos: identificar os conceitos gerais da CG e as principais áreas de atuação.
-- Procedimentos metodológicos: aula expositiva dialogada; material programado; atividades em grupo (laboratório).
-- Instrumentos e critérios de avaliação: exercícios, trabalhos práticos (avaliação 1).
-
-## Referências: livros
+### Referências: livros
 
 ![Referência](cg-slides_u1_imagens/slide-03-referencia-01.png)
 ![Referência](cg-slides_u1_imagens/slide-03-referencia-02.png)
@@ -41,7 +27,7 @@ Objetivo: identificar os conceitos gerais da Computação Gráfica e as principa
 ![Referência](cg-slides_u1_imagens/slide-03-referencia-14.png)
 ![Referência](cg-slides_u1_imagens/slide-03-referencia-15.png)
 
-## Algumas imagens clássicas
+### Algumas imagens clássicas
 
 ![Imagem clássica de Computação Gráfica](cg-slides_u1_imagens/slide-04-imagem-classica-01.png)
 ![Imagem clássica de Computação Gráfica](cg-slides_u1_imagens/slide-04-imagem-classica-02.png)
@@ -53,9 +39,7 @@ Objetivo: identificar os conceitos gerais da Computação Gráfica e as principa
 ![OpenGL](cg-slides_u1_imagens/slide-04-imagem-classica-08.png)
 ![Lenna](cg-slides_u1_imagens/slide-04-imagem-classica-09.png)
 
-## Motivação
-
-### Empresas de Games em SC: 
+### Motivação: Empresas de Games em SC
 
 Fonte: <http://www.santacatarinagames.com.br>
 
@@ -73,7 +57,7 @@ Fonte: <http://www.santacatarinagames.com.br>
 - ThunderWorks (<www.thunder-works.com>)
 - ...
 
-### Conferências
+### Motivação: Conferências
 
 | Fonte: <http://www.imago.ufpr.br/cegrapi/> |
 | --- |
@@ -170,13 +154,13 @@ Fonte: <http://www.santacatarinagames.com.br>
 - **SVR Symposium on Virtual and Augmented Reality**
   <https://svr.sbc.org.br>  
 
-### Empresas “grandes”
+### Motivação: Empresas “grandes”
 
 Multiple Agent Simulation System in Virtual Environment 
 Empresa conhecida por sua tecnologia de simulação de multidões usada em filmes e efeitos visuais.  
 MASSIVE <https://www.massivesoftware.com>
 
-## Pacotão Gráfico: visão geral
+### Pacotão Gráfico: visão geral
 
 ![Pacotão Gráfico](cg-slides_u1_imagens/slide-11-pacotao-grafico.png)
 
@@ -192,33 +176,33 @@ MASSIVE <https://www.massivesoftware.com>
 - Processamento de Imagens (PI)
 - Visão Computacional (VC)
 
-## Pacotão Gráfico: camadas
-
-![Camadas do Pacotão Gráfico](cg-slides_u1_imagens/slide-12-camadas.png)
-
-## Visão geral: macro
-
-Entrada → Processo → Saída
+### Pacotão Gráfico: camadas
 
 - Camadas:
   - hardware;
   - software;
   - rotinas;
-  - dados.
+  - dados.  
+![Camadas do Pacotão Gráfico](cg-slides_u1_imagens/slide-12-camadas.png)
 
-## Visão geral: dados
+### Visão geral: macro
 
+Entrada → Processo → Saída
+
+### Visão geral: dados
 
 ![Dimensões, sistema de referência e câmera sintética](cg-slides_u1_imagens/slide-14-dimensoes.png)
+
+#### Dimensões
 
 Unity: <https://docs.unity3d.com/Manual/2Dor3D.html>  
 Cinemachine: <https://unity.com/pt/unity/features/editor/art-and-design/cinemachine>
 
-### Referência (2D ou 3D)
+#### Referência (2D ou 3D)
 
 ![Referência absoluta e relativa](cg-slides_u1_imagens/slide-15-referencia-absoluta-relativa.png)
 
-### Tipo (2D ou 3D)
+#### Tipo (2D ou 3D)
 
 ![Raster e vetorial](cg-slides_u1_imagens/slide-16-raster-vetorial.png)
 
