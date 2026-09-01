@@ -1,6 +1,6 @@
 # Unidade 2 - OpenTK: Testar Ambiente
 
-Agora que já temos o [Ambiente de Desenvolvimento](AmbienteDesenvolvimento.md "Ambiente de Desenvolvimento") instalado vamos testá-lo usando alguns projetos de exemplo.  
+Para desenvolver as atividades abaixo primeiro precisa ter o [Ambiente de Desenvolvimento](AmbienteDesenvolvimento.md "Ambiente de Desenvolvimento") instalado.  
 
 ## 1-CreatingAWindow
 

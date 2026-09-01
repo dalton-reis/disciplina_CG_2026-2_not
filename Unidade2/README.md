@@ -6,8 +6,7 @@ Objetivo: aplicar os conceitos básicos de sistemas de referências e modelagem 
 ## Ambiente de Desenvolvimento
 
 Para iniciar as atividades precisamos configurar o [Ambiente de Desenvolvimento](AmbienteDesenvolvimento.md "Ambiente de Desenvolvimento")  
-
-### [OpenTK - Testar Ambiente](OpenTK_TestarAmbiente.md)
+Agora que já temos o [Ambiente de Desenvolvimento](AmbienteDesenvolvimento.md "Ambiente de Desenvolvimento") instalado vamos testá-lo usando alguns projetos de exemplo.  
 
 <!-- ## [Atividades - Aula](Atividade2/README.md "Atividades - Aula")   -->
 
