@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>CG_Biblioteca</RootNamespace>
+    <AssemblyName>CG_Biblioteca</AssemblyName>
+    <TargetFramework>net10.0</TargetFramework>
+    <!-- O desenho da BBox fica condicionado na biblioteca. -->
+    <DefineConstants>CG_OpenGL;CG_Gizmo;CG_DEBUG;CG_BBox</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenTK" Version="4.9.4" />
+    <PackageReference Include="StbImageSharp" Version="2.30.15" />
+  </ItemGroup>
+</Project>
