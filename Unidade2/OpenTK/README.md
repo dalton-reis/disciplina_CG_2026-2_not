@@ -1,24 +1,24 @@
 # Unidade 2 - OpenTK: Testar Ambiente
 
-Para desenvolver as atividades abaixo primeiro precisa ter o [Ambiente de Desenvolvimento](AmbienteDesenvolvimento.md "Ambiente de Desenvolvimento") instalado.  
+Para desenvolver as atividades abaixo primeiro precisa ter o [Ambiente de Desenvolvimento](../AmbienteDesenvolvimento.md "Ambiente de Desenvolvimento") instalado.  
 
 ## 1-CreatingAWindow
 
 Cria uma janela usando o OpenTK.  
-Ver a pasta: [1-CreatingAWindow](OpenTK/Chapter1/1-CreatingAWindow)  
-Este projeto usar a definição de Shaders: [OpenTK/Common](OpenTK/Common)  
+Ver a pasta: [1-CreatingAWindow](./Chapter1/1-CreatingAWindow/)  
+Este projeto usar a definição de Shaders: [./Common](./Common/)  
 
 Diagrama de Classes:  
-![Diagrama de Classes](OpenTK/Chapter1/1-CreatingAWindow/svg/plantuml/include.svg)  
+![Diagrama de Classes](./Chapter1/1-CreatingAWindow/svg/plantuml/include.svg)  
 
 ## 2-HelloTriangle
 
 Exibe a representação de um triângulo usando OpenTK.  
-Ver a pasta: [2-HelloTriangle](OpenTK/Chapter1/2-HelloTriangle)  
-Este projeto usar a definição de Shaders: [OpenTK/Common](OpenTK/Common)  
+Ver a pasta: [2-HelloTriangle](./Chapter1/2-HelloTriangle)  
+Este projeto usar a definição de Shaders: [./Common](./Common)  
 
 Diagrama de Classes:  
-![Diagrama de Classes](OpenTK/Chapter1/2-HelloTriangle/svg/plantuml/include.svg)  
+![Diagrama de Classes](./Chapter1/2-HelloTriangle/svg/plantuml/include.svg)  
 
 ## Atividade de Teste
 
@@ -37,14 +37,14 @@ Usando o fonte do projeto: **2-HelloTriangle** faça.
     B: 255      <!-- 255/256 = 0.99609375 -->
 
 Antes - Depois  
-![2-HelloTriangle_antes](OpenTK/Chapter1/2-HelloTriangle/2-HelloTriangle_antes.png) ![2-HelloTriangle_depois](OpenTK/Chapter1/2-HelloTriangle/2-HelloTriangle_depois.png)  
+![2-HelloTriangle_antes](./Chapter1/2-HelloTriangle/2-HelloTriangle_antes.png) ![2-HelloTriangle_depois](./Chapter1/2-HelloTriangle/2-HelloTriangle_depois.png)  
 
 ### Exercício B
 
 - Desenhar um quadrado em vez de um triângulo usando os pontos abaixo:  
 <https://www.geogebra.org/geometry/ef2ghh35>  
-![geogebraQuadrado](OpenTK/Chapter1/2-HelloTriangle/geogebraQuadrado.png)  
+![geogebraQuadrado](./Chapter1/2-HelloTriangle/geogebraQuadrado.png)  
 
 ----------
 
-## ⏭ [Unidade 2](../Unidade2/README.md "Unidade 2")  
+## ⏭ [Unidade 2](../../Unidade2/README.md "Unidade 2")  
