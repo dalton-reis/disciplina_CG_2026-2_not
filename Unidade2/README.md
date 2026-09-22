@@ -217,8 +217,7 @@ By(0,5) = 0,125 * 20 + 0,375 * 100 + 0,375 * 130 + 0,125 *   20 = 100
 
 ![Curvas, superfícies e modelos com splines](cg-slides_u2_imagens/slide-27-splines-modelagem.png)
 
-Ver exemplo: <http://www.ibiblio.org/e-notes/Splines/>  
-<http://www.ibiblio.org/e-notes/Splines/animation.html>
+Ver exemplo: <http://www.ibiblio.org/e-notes/Splines/animation.html>  
 
 ### Splines: visualização
 
