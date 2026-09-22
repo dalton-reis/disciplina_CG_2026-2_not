@@ -221,14 +221,6 @@ Ver exemplo: <http://www.ibiblio.org/e-notes/Splines/animation.html>
 
 ### Splines: visualização
 
-- WireFrame bordas ocultas
-- WireFrame uv isolinhas
-- Face WireFrame
-- Face Shaded
-- Shaded
-- Linhas de reflexão
-- Imagem refletida
-
 ![Modos de visualização de um modelo](cg-slides_u2_imagens/slide-29-splines-visualizacao.png)
 
 ### Box
