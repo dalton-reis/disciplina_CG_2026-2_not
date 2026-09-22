@@ -175,8 +175,7 @@ Com 2, 3, 4, 5 ou n pontos de controle.
 
 ##### 2 pontos de controle
 
-![spline_2ptos](./cg-slides_u2_imagens/spline_2ptos.png "spline_2ptos")
-![spline_2ptos](./cg-slides_u2_imagens/spline_2ptos.mov "spline_2ptos")
+![spline_2ptos](./cg-slides_u2_imagens/spline_2ptos.png "spline_2ptos") ![spline_2ptos](./cg-slides_u2_imagens/spline_2ptos.mov "spline_2ptos")
 
 ##### 3 pontos de controle
 
