@@ -14,6 +14,258 @@ Agora que já temos o Ambiente de Desenvolvimento instalado vamos testá-lo usan
 
 ## Conteúdo
 
+### Software de interface para o hardware gráfico
+
+![Software de interface para o hardware gráfico](cg-slides_u2_imagens/slide-03-interface-hardware.png)
+
+### OpenGL - Open Graphics Library
+
+- **Interface:** aplicações de “renderização” gráfica
+  - imagens coloridas de alta qualidade
+    - primitivas geométricas (2D e 3D) e
+    - por imagens
+  - independência de sistemas de janelas
+  - independência de sistemas operacionais
+  - compatível com quase todas as arquiteturas
+  - interface gráfica dominante
+
+#### Renderização
+
+- primitivas geométricas (2D e 3D) e
+- por imagens
+
+![Canais de imagem e geometria no pipeline OpenGL](cg-slides_u2_imagens/slide-05-pipeline-opengl.png)
+
+<http://www.opengl.org/about/overview/>
+
+![The OpenGL Machine](cg-slides_u2_imagens/slide-06-maquina-opengl.png)
+
+### OpenGL - “Renderizador”
+
+- Primitivas geométricas
+  - pontos, linhas e polígonos
+- Primitivas de imagens
+  - imagens e bitmaps
+  - canais independentes: geometria e imagem
+    - ligação via mapeamento de textura
+- “Renderização” dependente do estado
+  - cores, materiais, fontes de luz, etc.
+
+### OpenGL - Sistema de Janelas
+
+- Trata apenas de “renderização”
+  - independente do sistema de janelas
+    - X, Win32, Mac O/S
+  - não possui funções de entrada
+- Necessita interagir com o sistema operacional e o sistema de janelas
+  - interface dependente do sistema é mínima
+    - realizada através de bibliotecas adicionais: GLX, AGL, WGL
+
+### OpenGL - GLU, OpenGL Utility Library
+
+- Funções para auxiliar a tarefa de produzir imagens complexas
+  - manipulação de imagens
+  - polígonos não-convexos
+  - curvas
+  - superfícies
+  - esferas
+  - etc.
+
+### OpenGL - GLUT, OpenGL Utility Toolkit
+
+- API de janelas para o OpenGL
+  - independente do sistema de janelas
+  - indicado para programas:
+    - pequeno e médio porte
+  - processamento orientado à chamada de eventos (callbacks)
+  - dispositivos de entrada
+
+API: Interface para Programação de Aplicações
+
+### OpenGL - Prefixos
+
+- OpenGL
+  - `gl`, `GL`, `GL_`
+    - para comandos, tipos e constantes, respectivamente
+- GLU
+  - `glu`, `GLU`, `GLU_`
+- GLUT
+  - `glut`, `GLUT`, `GLUT_`
+
+### OpenGL - Passos Básicos
+
+- Configurar e abrir janela (canvas)
+- Inicializar o estado do OpenGL
+- Registrar funções de entrada de callback
+  - desenho (“renderização”)
+  - redimensionamento do canvas
+  - entrada: mouse, teclado, etc.
+
+### Programação Convencional
+
+![Fluxograma da programação convencional](cg-slides_u2_imagens/slide-13-programacao-convencional.png)
+
+### Programação por Eventos
+
+![Aplicação e gerenciador de callbacks na programação por eventos](cg-slides_u2_imagens/slide-14-programacao-eventos.png)
+
+### OpenGL - Primitivas Geométricas
+
+Especificadas por vértices.
+
+- `GL_POINTS`
+- `GL_LINES`
+- `GL_LINE_LOOP`
+- `GL_LINE_STRIP`
+- `GL_TRIANGLES`
+- `GL_QUADS`
+- `GL_QUAD_STRIP`
+- `GL_POLYGON`
+- `GL_TRIANGLE_STRIP`
+- `GL_TRIANGLE_FAN`
+
+![Primitivas geométricas especificadas por vértices](cg-slides_u2_imagens/slide-15-primitivas-geometricas.png)
+
+### OpenGL - Formato, Especificação do Vértice
+
+`glVertex3fv( v )`
+
+- Número de componentes:
+  - 2 - (x,y)
+  - 3 - (x,y,z)
+  - 4 - (x,y,z,w)
+- Tipo do dado:
+  - `b` - byte
+  - `ub` - unsigned byte
+  - `s` - short
+  - `us` - unsigned short
+  - `i` - int
+  - `ui` - unsigned int
+  - `f` - float
+  - `d` - double
+- Vetor:
+  - omitir “v” para forma escalar
+  - `glVertex2f( x, y )`
+
+![Componentes, tipos e vetor na especificação do vértice](cg-slides_u2_imagens/slide-16-especificacao-vertice.png)
+
+### Splines
+
+- Splines (ou curva polinomial)
+  - origem:
+    - desenvolvida: De Casteljau em 1957 (P. De Casteljau, Citröen)
+    - formalizado: Bézier 1960 (Pierre Bézier)
+    - aplicações CAD/CAM
+  - pontos de controle
+  - bastante utilizada em modelagem tridimensional
+
+![Curva spline e exemplos de código](cg-slides_u2_imagens/slide-17-splines-exemplos.png)
+
+Tudo pode ser modelado por fórmulas, o problema é o custo envolvido.
+
+![Equações e desenho do Batman](cg-slides_u2_imagens/slide-18-batman-equacoes.png)
+
+<http://blog.wolframalpha.com/data/uploads/2013/07/Batman_lamina_-_Wolfram_Alpha.png>
+
+#### Curvas de Bézier e pontos de controle
+
+![Curvas de Bézier e construção por pontos de controle](cg-slides_u2_imagens/slide-19-curvas-bezier.png)
+
+<http://en.wikipedia.org/wiki/B%C3%A9zier_curve>  
+<http://www.ibiblio.org/e-notes/Splines/Intro.htm>
+
+![Curva de Bézier com três pontos de controle](cg-slides_u2_imagens/slide-20-bezier-tres-pontos.png)
+
+![Curva de Bézier com quatro pontos de controle](cg-slides_u2_imagens/slide-21-bezier-quatro-pontos.png)
+
+![Curva de Bézier com cinco pontos de controle](cg-slides_u2_imagens/slide-22-bezier-cinco-pontos.png)
+
+![Construção geométrica de uma curva](cg-slides_u2_imagens/slide-23-de-casteljau.png)
+
+#### Splines: exemplo de implementação
+
+![Código e resultado gráfico do exemplo de spline](cg-slides_u2_imagens/slide-24-spline-codigo.png)
+
+### Splines (Bezier)
+
+$$
+B(t) = (1-t)^3 P_0 + 3t(1-t)^2 P_1 + 3t^2(1-t)P_2 + t^3P_3, \quad t \in [0,1].
+$$
+
+```text
+Bx(0,5) = 0,125 * 30 + 0,375 *   30 + 0,375 * 130 + 0,125 * 130 =   80
+By(0,5) = 0,125 * 20 + 0,375 * 100 + 0,375 * 130 + 0,125 *   20 = 100
+```
+
+![Fórmula de Bézier, cálculo e tabela de pesos](cg-slides_u2_imagens/slide-25-bezier-formula-tabela.png)
+
+![Tabela e gráficos dos pesos de P0, P1, P2 e P3](cg-slides_u2_imagens/slide-26-bezier-pesos.png)
+
+### Splines: modelagem
+
+![Curvas, superfícies e modelos com splines](cg-slides_u2_imagens/slide-27-splines-modelagem.png)
+
+Ver exemplo: <http://www.ibiblio.org/e-notes/Splines/>  
+<http://www.ibiblio.org/e-notes/Splines/animation.html>
+
+### Splines: visualização
+
+- WireFrame bordas ocultas
+- WireFrame uv isolinhas
+- Face WireFrame
+- Face Shaded
+- Shaded
+- Linhas de reflexão
+- Imagem refletida
+
+![Modos de visualização de um modelo](cg-slides_u2_imagens/slide-29-splines-visualizacao.png)
+
+### Box
+
+![Anotações do quadro sobre Box - 1](cg-slides_u2_imagens/slide-30-box-quadro-01.png)
+
+![Anotações do quadro sobre Box - 2](cg-slides_u2_imagens/slide-31-box-quadro-02.png)
+
+### Tabela senos/cosenos e Teorema de Pitágoras
+
+![Tabela trigonométrica, fórmulas e teorema de Pitágoras](cg-slides_u2_imagens/slide-32-trigonometria-pitagoras.png)
+
+```text
+radiano:=grau * PI / 180;
+```
+
+```java
+public double RetornaX(double a){
+    return (5 * Math.cos(Math.PI * a / 180.0));
+}
+public double RetornaY(double a){
+    return (5 * Math.sin(Math.PI * a / 180.0));
+}
+```
+
+### Computational Geometry Algorithms Library - CGAL
+
+<http://www.cgal.org/>
+
+- 2D Convex hulls
+- Delaunay Triangulation 2
+- Regular Triangulations
+- Spatial Searching
+
+![Exemplos de algoritmos da CGAL](cg-slides_u2_imagens/slide-33-cgal.png)
+
+### Tabelas e fórmulas de referência
+
+![Tabelas matemáticas de referência - 1](cg-slides_u2_imagens/slide-34-referencia-matematica-01.png)
+
+![Tabelas matemáticas de referência - 2](cg-slides_u2_imagens/slide-35-referencia-matematica-02.png)
+
+![Tabelas matemáticas de referência - 3](cg-slides_u2_imagens/slide-36-referencia-matematica-03.png)
+
+![Tabelas matemáticas de referência - 4](cg-slides_u2_imagens/slide-37-referencia-matematica-04.png)
+
+![Tabelas matemáticas de referência - 5](cg-slides_u2_imagens/slide-38-referencia-matematica-05.png)
+
 ### OpenGL - Pipeline Gráfico: Visão geral
 
 ```mermaid
