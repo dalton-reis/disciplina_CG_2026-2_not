@@ -176,11 +176,11 @@ Tudo pode ser modelado por fórmulas, o problema é o custo envolvido.
 
 ##### 2 pontos de controle
 
-<video controls src="cg-slides_u2_imagens/spline_2ptos.mov" title="Title"></video>  
+![spline_2ptos](./cg-slides_u2_imagens/spline_2ptos.mov "spline_2ptos")
 
 ##### 3 pontos de controle
 
-<video controls src="cg-slides_u2_imagens/spline_3ptos.mov" title="Title"></video>  
+![spline_3ptos](./cg-slides_u2_imagens/spline_3ptos.mov "spline_3ptos")
 
 #### Splines: exemplo de implementação
 
