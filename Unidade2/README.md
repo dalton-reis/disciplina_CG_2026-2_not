@@ -182,6 +182,10 @@ Tudo pode ser modelado por fórmulas, o problema é o custo envolvido.
 
 ![spline_3ptos](./cg-slides_u2_imagens/spline_3ptos.mov "spline_3ptos")
 
+##### 4 pontos de controle
+
+![spline_4ptos](./cg-slides_u2_imagens/spline_4ptos.mov "spline_4ptos")
+
 #### Splines: exemplo de implementação
 
 ![Código e resultado gráfico do exemplo de spline](cg-slides_u2_imagens/slide-24-spline-codigo.png)
