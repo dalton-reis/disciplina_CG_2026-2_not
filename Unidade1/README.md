@@ -43,25 +43,22 @@ Objetivo: identificar os conceitos gerais da Computação Gráfica e as principa
 
 ### Motivação: Empresas de Games em SC
 
-Fonte: <http://www.santacatarinagames.com.br>
-
 - Casthalia (<www.casthalia.com.br>)
-- Céu Games (<www.ceugames.com>)
 - Cre8 (internacional)
 - Experience Solutions
 - Fisiogames (<fisiogames.com.br>)
 - **Hoplon Infotainment (<www.hoplon.com>)**
 - Megajogos (<www.megajogos.com.br>)
-- Nexia Mobile (<www.nexiamobile.com.br>)
+- Nexia Mobile (professor e alunos da FURB)
 - Palmsoft (<www.palmsoft.com.br>)
-- Pangas Entertainment (<www.pangasentertainment.com>)
-- Tecnomagia (<www.tecnomagia.com>)
+- Pangas Entertainment (<https://www.pangagames.com>)
+- Tecnomagia
 - ThunderWorks (<www.thunder-works.com>)
 - ...
 
 ### Motivação: Conferências
 
-| Fonte: <http://www.imago.ufpr.br/cegrapi/> |
+| Fonte: CEGRAPI <https://sibgrapi.sbc.org.br/about-cegrapi/> |
 | --- |
 | 3DIM2 International Conference on 3-D Digital Imaging and Modeling 2 |
 | 3DUI IEEE Symposium on 3D User Interfaces |
