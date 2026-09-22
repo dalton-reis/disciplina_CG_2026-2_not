@@ -344,6 +344,12 @@ Com 2, 3, 4, 5 ou n pontos de controle.
 
 ----
 
+##### N pontos de controle
+
+![spline_Nptos](./cg-slides_u2_imagens/spline_Nptos.mov "spline_Nptos")  
+
+----
+
 #### Splines: exemplo de implementação
 
 ![Código e resultado gráfico do exemplo de spline](cg-slides_u2_imagens/slide-24-spline-codigo.png)
