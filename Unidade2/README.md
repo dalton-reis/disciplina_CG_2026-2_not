@@ -186,7 +186,7 @@ Agora que já temos o Ambiente de Desenvolvimento instalado vamos testá-lo usan
     APP --> VERTEX --> PRIM --> FRAG --> PERFRAG --> FB
 ```
 
-<http://www.opengl.org/about/overview/>
+<http://www.opengl.org>
 
 ![The OpenGL Machine](cg-slides_u2_imagens/slide-06-maquina-opengl.png)
 
