@@ -175,21 +175,21 @@ Com 2, 3, 4, 5 ou n pontos de controle.
 
 ##### 2 pontos de controle
 
-![spline_2ptos](./cg-slides_u2_imagens/spline_2ptos.png "spline_2ptos")  
+[spline_2ptos](./cg-slides_u2_imagens/spline_2ptos.png "spline_2ptos")  
 ![spline_2ptos](./cg-slides_u2_imagens/spline_2ptos.mov "spline_2ptos")  
 
 ----
 
 ##### 3 pontos de controle
 
-![spline_3ptos](./cg-slides_u2_imagens/spline_3ptos.png "spline_3ptos")  
+[spline_3ptos](./cg-slides_u2_imagens/spline_3ptos.png "spline_3ptos")  
 ![spline_3ptos](./cg-slides_u2_imagens/spline_3ptos.mov "spline_3ptos")  
 
 ----
 
 ##### 4 pontos de controle
 
-![spline_4ptos](./cg-slides_u2_imagens/spline_4ptos.png "spline_4ptos")  
+[spline_4ptos](./cg-slides_u2_imagens/spline_4ptos.png "spline_4ptos")  
 ![spline_4ptos](./cg-slides_u2_imagens/spline_4ptos.mov "spline_4ptos")  
 
 ----
