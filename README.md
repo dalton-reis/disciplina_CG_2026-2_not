@@ -1,6 +1,6 @@
 # Disciplina de Computação Gráfica  
 
-[disciplina_CG_aulas_FreeForm]: <https://www.icloud.com/freeform/0c4lo1IrJ_sqr9iG5QdX-cyNg#disciplina_CG_aulas> "disciplina_CG_aulas_Freeform"  
+[disciplina_CG_aulas_FreeForm]: <https://www.icloud.com/freeform/0c4lo1IrJ_sqr9iG5QdX-cyNg> "disciplina_CG_aulas_Freeform"  
 [Cronograma]: <./cronograma.md> "Cronograma"  
 
 Professor Dalton
