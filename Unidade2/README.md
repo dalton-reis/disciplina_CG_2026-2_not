@@ -172,15 +172,15 @@ Tudo pode ser modelado por fórmulas, o problema é o custo envolvido.
 ![Curvas de Bézier e construção por pontos de controle](cg-slides_u2_imagens/slide-19-curvas-bezier.png)
 
 <http://en.wikipedia.org/wiki/B%C3%A9zier_curve>  
-<http://www.ibiblio.org/e-notes/Splines/Intro.htm>
+<http://www.ibiblio.org/e-notes/Splines/Intro.htm>  
 
-![Curva de Bézier com três pontos de controle](cg-slides_u2_imagens/slide-20-bezier-tres-pontos.png)
+##### 2 pontos de controle
 
-![Curva de Bézier com quatro pontos de controle](cg-slides_u2_imagens/slide-21-bezier-quatro-pontos.png)
+<video controls src="cg-slides_u2_imagens/spline_2ptos.mov" title="Title"></video>  
 
-![Curva de Bézier com cinco pontos de controle](cg-slides_u2_imagens/slide-22-bezier-cinco-pontos.png)
+##### 3 pontos de controle
 
-![Construção geométrica de uma curva](cg-slides_u2_imagens/slide-23-de-casteljau.png)
+<video controls src="cg-slides_u2_imagens/spline_3ptos.mov" title="Title"></video>  
 
 #### Splines: exemplo de implementação
 
