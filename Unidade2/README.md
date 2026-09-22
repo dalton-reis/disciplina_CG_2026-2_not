@@ -201,7 +201,7 @@ Com 2, 3, 4, 5 ou n pontos de controle.
 ### Splines (Bezier)
 
 $$
-B(t) = (1-t)^3 P_0 + 3t(1-t)^2 P_1 + 3t^2(1-t)P_2 + t^3P_3, \quad t \in [0,1].
+B(t) = (1-t)^3 P_0 + 3t(1-t)^2 P_1 + 3t^2(1-t)P_2 + t^3P_3, \quad t \in \[0,1].
 $$
 
 ```text
