@@ -223,7 +223,7 @@ Ver exemplo: <http://www.ibiblio.org/e-notes/Splines/animation.html>
 
 ![Modos de visualização de um modelo](cg-slides_u2_imagens/slide-29-splines-visualizacao.png)
 
-### Box
+<!-- ### Box
 
 ![Anotações do quadro sobre Box - 1](cg-slides_u2_imagens/slide-30-box-quadro-01.png)
 
@@ -268,6 +268,7 @@ public double RetornaY(double a){
 ![Tabelas matemáticas de referência - 4](cg-slides_u2_imagens/slide-37-referencia-matematica-04.png)
 
 ![Tabelas matemáticas de referência - 5](cg-slides_u2_imagens/slide-38-referencia-matematica-05.png)
+ -->
 
 ### OpenGL - Pipeline Gráfico: Visão geral
 
@@ -419,7 +420,7 @@ public double RetornaY(double a){
     APP --> VERTEX --> PRIM --> FRAG --> PERFRAG --> FB
 ```
 
-----------
+----
 
 ## ⏭ [Unidade 3](../Unidade3/README.md "Unidade 3")  
 
