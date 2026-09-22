@@ -165,7 +165,7 @@ Tudo pode ser modelado por fórmulas, o problema é o custo envolvido.
 
 ![Equações e desenho do Batman](cg-slides_u2_imagens/slide-18-batman-equacoes.png)
 
-<http://blog.wolframalpha.com/data/uploads/2013/07/Batman_lamina_-_Wolfram_Alpha.png>
+<https://www.wolframalpha.com/input/?i=batman+equation>
 
 #### Curvas de Bézier e pontos de controle
 
