@@ -3,17 +3,16 @@
 Conceitos básicos de Computação Gráfica: estruturas de dados para geometria, sistemas de coordenadas na biblioteca gráfica (OpenGL/OpenTK), primitivas básicas (vértices, linhas, polígonos, círculos e curvas cúbicas – splines).  
 Objetivo: aplicar os conceitos básicos de sistemas de referências e modelagem geométrica em Computação Gráfica.  
 
+[Anotações do quadro](aulaAnotacoesQuadro)  
+
+## [Atividades - Aula](./Atividade2/README.md "Atividades - Aula")  
+
 ## Ambiente de Desenvolvimento
 
 Para iniciar as atividades precisamos configurar o [Ambiente de Desenvolvimento](AmbienteDesenvolvimento.md "Ambiente de Desenvolvimento")  
 Agora que já temos o Ambiente de Desenvolvimento instalado vamos testá-lo usando alguns projetos de exemplo: [OpenTK_TestarAmbiente](OpenTK_TestarAmbiente.md).  
 
-<!-- ## [Atividades - Aula](Atividade2/README.md "Atividades - Aula")   -->
-
 ## Conteúdo
-
-<!-- [cg-slides_u2.pdf](./cg-slides_u2.pdf "cg-slides_u2.pdf")  
-[anotações do quadro](aulaAnotacoesQuadro)   -->
 
 ### OpenGL - Pipeline Gráfico: Visão geral
 
@@ -202,3 +201,10 @@ O material utilizado nesta disciplina é baseado nessas Referências Bibliográf
 ### Links C\#
 
 <https://github.com/LDTTFURB/site/tree/main/ProjetosEnsino/Topicos/CSharp>  
+
+----------
+
+<!--
+TODO: arrumar as fontes bibliográficas  
+## Principais Referências Bibliográficas​
+-->

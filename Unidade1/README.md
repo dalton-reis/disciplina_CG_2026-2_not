@@ -3,7 +3,9 @@
 Introdução a sistemas gráficos: histórico e aplicações, conceitos gerais, principais áreas da Computação Gráfica, dispositivos de entrada e saída gráficos e introdução à biblioteca gráfica (OpenGL/OpenTK).  
 Objetivo: identificar os conceitos gerais da Computação Gráfica e as principais áreas de atuação.  
 
-## [Atividades - Aula](Atividade1.md "Atividades - Aula")  
+[Anotações do quadro](aulaAnotacoesQuadro)  
+
+## [Atividades - Aula](./Atividade1/README.md "Atividades - Aula")  
 
 ## [Exemplos](exemplos "Exemplos")  
 
