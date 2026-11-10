@@ -86,6 +86,8 @@ Conforme Silva, Raposo e Gattas (2004, p. 3)[^2], “\[...] grafos de cena são 
 
 ### Transformações Geométricas  
 
+[Consulte a explicação detalhada sobre transformações geométricas](./transformacoes-geometricas.md), com exemplos em 2D e 3D e a convenção de multiplicação usada nas matrizes.
+
 As transformações geométricas (translação, escala e rotação) do ponto médio demonstram que qualquer segmento de reta pode ser transladado, escalado e rotacionado pela simples transformação de seus pontos extremos.
 Observação: as transformações são sempre em relação à origem.  
 
@@ -315,7 +317,7 @@ A rotação de um ponto $P(x,y,z)$ no plano ocorre em relação às dimensões d
 \times
 \begin{bmatrix}
   1 & 0 & 0 & 0 \\
-  0 & \textcolor{red}{cos\alpha} & \textcolor{red}{-sin\alpha} & 0 \\
+  0 & \textcolor{red}{cos\alpha} & \textcolor{red}{sin-\alpha} & 0 \\
   0 & \textcolor{red}{sin\alpha} & \textcolor{red}{cos\alpha} & 0 \\
   0 & 0 & 0 & 1
  \end{bmatrix}
@@ -348,7 +350,7 @@ A rotação de um ponto $P(x,y,z)$ no plano ocorre em relação às dimensões d
 \end{bmatrix}
 \times
 \begin{bmatrix}
-  \textcolor{red}{cos\alpha} & 0 & \textcolor{red}{-sin\alpha} & 0 \\
+  \textcolor{red}{cos\alpha} & 0 & \textcolor{red}{sin-\alpha} & 0 \\
   0 & 1 & 0 & 0 \\
   \textcolor{red}{sin\alpha} & 0 & \textcolor{red}{cos\alpha} & 0 \\
   0 & 0 & 0 & 1
@@ -382,7 +384,7 @@ A rotação de um ponto $P(x,y,z)$ no plano ocorre em relação às dimensões d
 \end{bmatrix}
 \times
 \begin{bmatrix}
-  \textcolor{red}{cos\alpha} & \textcolor{red}{-sin\alpha} & 0 & 0\\
+  \textcolor{red}{cos\alpha} & \textcolor{red}{sin-\alpha} & 0 & 0\\
   \textcolor{red}{sin\alpha} & \textcolor{red}{cos\alpha} & 0 & 0 \\
   0 & 0 & 1 & 0 \\
   0 & 0 & 0 & 1
@@ -404,6 +406,30 @@ A rotação de um ponto $P(x,y,z)$ no plano ocorre em relação às dimensões d
 ```
 
 <https://github.com/dalton-reis/disciplina_CG_2026-2_not/tree/main/CG_Biblioteca/Transformacao4D.cs#L125-L132>
+
+#### Função **par** e **ímpar** 
+
+Uma função é **par** quando mantém o mesmo valor ao trocar \(x\) por \(-x\):  
+\[
+f(-x)=f(x).
+\]
+Seu gráfico é simétrico em relação ao eixo \(y\).
+
+Uma função é **ímpar** quando o valor troca de sinal:  
+\[
+f(-x)=-f(x).
+\]
+Seu gráfico é simétrico em relação à origem.
+
+Para seno e cosseno:
+\[
+\boxed{\cos(-x)=\cos(x)} \quad\text{— cosseno é par}
+\]
+\[
+\boxed{\sin(-x)=-\sin(x)} \quad\text{— seno é ímpar}
+\]
+
+Por exemplo, \(\cos(-30^\circ)=\cos(30^\circ)\), mas \(\sin(-30^\circ)=-\sin(30^\circ)\). Isso também pode ser visto no círculo trigonométrico: refletir o ângulo sobre o eixo horizontal mantém a coordenada \(x\) (cosseno) e inverte a coordenada \(y\) (seno).
 
 ### Composição de Transformações Geométricas  
 
