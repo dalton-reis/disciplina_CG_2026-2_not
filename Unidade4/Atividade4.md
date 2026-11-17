@@ -19,9 +19,12 @@ Esta atividade é para ser desenvolvida individualmente pelo aluno, no caso, nã
 
 \[peso: 2,0] [Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
 
-\[peso: 2,0] Atividade do TCC2 - Vinicius Vanelli Silvestre Silva
+\[peso: 2,0] Atividade do TCC2 - Vinicius Vanelli Silvestre Silva  
 [Slides](https://docs.google.com/presentation/d/1E1TjBEixpjnQckNG9TKWL5QQZWiYmv7lT5oDCAV3GZg/edit?usp=sharing)  
+<https://docs.google.com/presentation/d/1E1TjBEixpjnQckNG9TKWL5QQZWiYmv7lT5oDCAV3GZg/edit?usp=sharing>  
+  
 [Github](https://github.com/mais-um-vini-vanelli/tcc2/tree/main)  
+<https://github.com/mais-um-vini-vanelli/tcc2/tree/main>  
 
 ## Atividade em Equipe
 
