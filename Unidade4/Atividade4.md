@@ -33,9 +33,13 @@ Essa atividade deve ser salva no repositório da sua equipe na Unidade4. Criei u
 
 [Questionário da Atividade](https://forms.gle/QEbofsPe35xiemiC6)  
 
-### VisEdu \[peso: 2,0] 
+----------
+
+### VisEdu \[peso: 2,0]
 
 [Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
+
+----------
 
 ## Atividade em Equipe \[peso: 6,0]  
 
