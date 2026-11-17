@@ -17,14 +17,22 @@ Prazo: 20/06/2025.
 
 Esta atividade é para ser desenvolvida individualmente pelo aluno, no caso, não é em equipe. Essa atividade serve para reforçar/praticar os conceitos relacionados a Unidade 4.  
 
-\[peso: 2,0] [Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
+### TCC2 - Vinicius Vanelli Silvestre Silva \[peso: 2,0]
 
-\[peso: 2,0] Atividade do TCC2 - Vinicius Vanelli Silvestre Silva  
 [Slides](https://docs.google.com/presentation/d/1E1TjBEixpjnQckNG9TKWL5QQZWiYmv7lT5oDCAV3GZg/edit?usp=sharing)  
-<https://docs.google.com/presentation/d/1E1TjBEixpjnQckNG9TKWL5QQZWiYmv7lT5oDCAV3GZg/edit?usp=sharing>  
-  
 [Github](https://github.com/mais-um-vini-vanelli/tcc2/tree/main)  
-<https://github.com/mais-um-vini-vanelli/tcc2/tree/main>  
+[Documentação](https://mais-um-vini-vanelli.github.io/tcc2/)  
+
+O que precisa ser baixado para o seu PC:
+[editor.zip](https://github.com/mais-um-vini-vanelli/tcc2/releases/download/v0.1.0/editor.zip)  
+[exemplos.zip](https://github.com/mais-um-vini-vanelli/tcc2/releases/download/v0.1.0/exemplos.zip)  
+[Source code (zip)](https://github.com/mais-um-vini-vanelli/tcc2/archive/refs/tags/v0.1.0.zip)  
+
+[Atividade](https://github.com/mais-um-vini-vanelli/tcc2/tree/main#atividades)  
+
+### VisEdu
+
+\[peso: 2,0] [Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
 
 ## Atividade em Equipe
 
