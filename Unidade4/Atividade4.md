@@ -23,7 +23,7 @@ Esta atividade é para ser desenvolvida individualmente pelo aluno, no caso, nã
 [Github](https://github.com/mais-um-vini-vanelli/tcc2/tree/main)  
 [Documentação](https://mais-um-vini-vanelli.github.io/tcc2/)  
 
-O que precisa ser baixado para o seu PC:
+O que precisa ser baixado para o seu PC:  
 [editor.zip](https://github.com/mais-um-vini-vanelli/tcc2/releases/download/v0.1.0/editor.zip)  
 [exemplos.zip](https://github.com/mais-um-vini-vanelli/tcc2/releases/download/v0.1.0/exemplos.zip)  
 [Source code (zip)](https://github.com/mais-um-vini-vanelli/tcc2/archive/refs/tags/v0.1.0.zip)  
