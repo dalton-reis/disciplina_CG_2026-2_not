@@ -31,6 +31,8 @@ O que precisa ser baixado para o seu PC:
 [Atividade a ser entregue](https://github.com/mais-um-vini-vanelli/tcc2/tree/main#atividades)  
 Essa atividade deve ser salva no repositório da sua equipe na Unidade4. Criei uma pasta com seu nome, e poste essa atividade nela. No caso, após ter feito a atividade, tire uns prints de tela, e salve como resposta da atividade.  
 
+[Questionário da Atividade](https://forms.gle/QEbofsPe35xiemiC6)  
+
 ### VisEdu \[peso: 2,0] 
 
 [Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
