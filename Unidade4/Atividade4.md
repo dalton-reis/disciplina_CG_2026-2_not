@@ -28,7 +28,8 @@ O que precisa ser baixado para o seu PC:
 [exemplos.zip](https://github.com/mais-um-vini-vanelli/tcc2/releases/download/v0.1.0/exemplos.zip)  
 [Source code (zip)](https://github.com/mais-um-vini-vanelli/tcc2/archive/refs/tags/v0.1.0.zip)  
 
-[Atividade](https://github.com/mais-um-vini-vanelli/tcc2/tree/main#atividades)  
+[Atividade a ser entregue](https://github.com/mais-um-vini-vanelli/tcc2/tree/main#atividades)  
+Essa atividade deve ser salva no repositório da sua equipe na Unidade4. Criei uma pasta com seu nome, e poste essa atividade nela. No caso, após ter feito a atividade, tire uns prints de tela, e salve como resposta da atividade.  
 
 ### VisEdu \[peso: 2,0] 
 
