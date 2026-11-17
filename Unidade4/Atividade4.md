@@ -30,13 +30,11 @@ O que precisa ser baixado para o seu PC:
 
 [Atividade](https://github.com/mais-um-vini-vanelli/tcc2/tree/main#atividades)  
 
-### VisEdu
+### VisEdu \[peso: 2,0] 
 
-\[peso: 2,0] [Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
+[Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
 
-## Atividade em Equipe
-
-\[peso: 6,0]  
+## Atividade em Equipe \[peso: 6,0]  
 
 Lembretes:
 
