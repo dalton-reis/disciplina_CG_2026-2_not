@@ -15,13 +15,17 @@ Prazo: 20/06/2025.
 
 ## Atividade Individual
 
-\[peso: 2,0] Esta atividade é para ser desenvolvida individualmente pelo aluno, no caso, não é em equipe. Essa atividade serve para reforçar/praticar os conceitos relacionados a Unidade 4.  
+Esta atividade é para ser desenvolvida individualmente pelo aluno, no caso, não é em equipe. Essa atividade serve para reforçar/praticar os conceitos relacionados a Unidade 4.  
 
-[Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
+\[peso: 2,0] [Atividade4_VisEdu](./Atividade4_VisEdu/readme.md)  
+
+\[peso: 2,0] Atividade do TCC2 - Vinicius Vanelli Silvestre Silva
+[Slides]<https://docs.google.com/presentation/d/1E1TjBEixpjnQckNG9TKWL5QQZWiYmv7lT5oDCAV3GZg/edit?usp=sharing>  
+
 
 ## Atividade em Equipe
 
-\[peso: 8,0]  
+\[peso: 6,0]  
 
 Lembretes:
 
